@@ -1,6 +1,8 @@
 # About Me
 
-Hi, I'm Nathanael Ian Gunadi, but most people call me Ian. Originally from Indonesia, I’m a third-year Computer Science major at Aoyama Gakuin University, Tokyo. I have a passion for learning new coding techniques, meeting new people, and finding creative solutions to challenges. Recently, I’ve been diving into SEO, exploring the best strategies to drive website views and improve retention time.
+Hi, I'm Nathanael Ian Gunadi, but most people call me Ian. 
+
+Originally from Indonesia, I’m a third-year Computer Science major at Aoyama Gakuin University, Tokyo. I have a passion for learning new coding techniques, meeting new people, and finding creative solutions to challenges. Recently, I’ve been diving into SEO, exploring the best strategies to drive website views and improve retention time.
 
 
 ### Interests
