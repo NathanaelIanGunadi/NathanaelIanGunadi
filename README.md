@@ -1,5 +1,12 @@
-Hi, I'm Nathanael Ian Gunadi 👋
+# Hi, I'm Nathanael Ian Gunadi 👋
 
-About Me
+### About Me
 
-Originally from Indonesia, I am a third-year Computer Science major at Aoyama Gakuin University, Tokyo. I have a deep passion for meeting new people, just as much as I enjoy discovering new ways to code and broadening my perspective through innovative thinking. I specialize in creating personalized solutions, building intuitive user interfaces, and collaborating across teams to achieve impactful results.
+Originally from Indonesia, I am a third-year Computer Science major at Aoyama Gakuin University, Tokyo. 
+
+
+### Interests
+
+- **Learning:** Always curious about discovering new coding techniques and approaches to problem-solving.
+- **Socializing:** I thrive on meeting new people and exchanging stories and perspectives.
+- **Hobbies:** Ping pong, karaoke, and, of course, tinkering with code!
